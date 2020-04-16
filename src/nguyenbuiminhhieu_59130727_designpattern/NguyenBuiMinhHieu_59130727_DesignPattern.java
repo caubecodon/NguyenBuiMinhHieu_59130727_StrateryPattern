@@ -16,7 +16,7 @@ public class NguyenBuiMinhHieu_59130727_DesignPattern {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //bai1
+        //bai tap 1
         System.out.println("Bài tập 1:");
         Context.main(args);
     }
