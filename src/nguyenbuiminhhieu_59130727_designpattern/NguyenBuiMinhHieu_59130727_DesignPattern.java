@@ -5,6 +5,7 @@
  */
 package nguyenbuiminhhieu_59130727_designpattern;
 import Bai1.Context;
+import Bai2.Main;
 
 /**
  *
@@ -19,6 +20,9 @@ public class NguyenBuiMinhHieu_59130727_DesignPattern {
         //bai 1
         System.out.println("Bài tập 1:");
         Context.main(args);
+        //bai2
+        System.out.println("Bài tập 2:");
+        Main.main1(args);
     }
     
 }
