@@ -12,7 +12,7 @@ import java.text.SimpleDateFormat;
  *
  * @author Nguyen Bui Minh Hieu
  */
-public class Main {
+public class Bai3Main {
     public static void main(String[] args) throws ParseException {
 
         SimpleDateFormat fd = new SimpleDateFormat("dd/MM/yyyy");

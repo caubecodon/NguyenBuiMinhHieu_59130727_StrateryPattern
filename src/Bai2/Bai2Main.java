@@ -9,8 +9,8 @@ package Bai2;
  *
  * @author Nguyen Bui Minh Hieu
  */
-public class Main {
-    public static void main1(String[] args) {
+public class Bai2Main {
+    public static void main(String[] args) {
         // tao hang hoa
         HangHoa hh1 = new HangHoa("Hàng hóa 1", 100000, "Trạng thái 1");
         HangHoa hh2 = new HangHoa("Hàng hóa 2", 200000, "Trạng thái 2");
